@@ -43,6 +43,8 @@ dailygrowth/
 
 ---
 
+Link: https://daily-growth-tracker.streamlit.app/
+
 ## ▶️ Running the App Locally
 
 ```bash
