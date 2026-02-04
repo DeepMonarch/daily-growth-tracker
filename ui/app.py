@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from datetime import date
 
-API_URL = "http://localhost:8000"
+API_URL = "https://daily-growth-tracker.onrender.com/"
 
 st.title("🗓️ Daily Growth")
 st.subheader("Add Today's Progress!")
@@ -35,3 +35,4 @@ if st.button("Save Progress!"):
         st.write(res.text)
 
 st.subheader("Summary of Overall Progress!")
+
