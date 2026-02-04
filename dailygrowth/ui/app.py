@@ -34,4 +34,4 @@ if st.button("Save Progress!"):
         st.error("Error adding progress 😕")
         st.write(res.text)
 
-st.subheader("Summary of Overall Progress!")
+
