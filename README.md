@@ -45,8 +45,8 @@ dailygrowth/
 
 ## ▶️ Running the App Locally
 
-### 1️⃣ Clone the repository
 ```bash
+1️⃣ Clone the repository
 git clone https://github.com/your-username/daily-growth-tracker.git
 cd daily-growth-tracker
 2️⃣ Install dependencies
