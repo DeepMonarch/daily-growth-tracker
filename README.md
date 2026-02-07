@@ -43,7 +43,7 @@ dailygrowth/
 
 ---
 
-Link: https://daily-growth-tracker.streamlit.app/
+Link: https://daily-growth-tracker-6.streamlit.app/
 
 ## ▶️ Running the App Locally
 
